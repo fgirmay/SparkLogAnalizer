@@ -1,2 +1,1 @@
-# SparkLogAnalizer
-# SparkLogAnalizer
+# This Spark project takes log file input located in the input folder and lists all the ip address inside the log file that have accessed the server more than 20 times.
